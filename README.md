@@ -12,9 +12,9 @@ I build insurance and risk models in Python and test them against public disclos
 ![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?logo=microsoftexcel&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=anthropic&logoColor=white)
 
-**Exams:** Korean Actuary Exam Parts 1 and 2 (Actuarial Mathematics, Pension Mathematics, Actuarial Modeling) · SOA Exam P
-**Activities:** Head of Projects, SNU Actuarial Society · DB Insurance Study Group
-**Contact:** dlehgus58@gmail.com
+- **Exams:** Korean Actuary Exam Parts 1 and 2 (Actuarial Mathematics, Pension Mathematics, Actuarial Modeling) · SOA Exam P
+- **Activities:** Head of Projects, SNU Actuarial Society · DB Insurance Study Group
+- **Contact:** dlehgus58@gmail.com
 
 ---
 
